@@ -1,0 +1,5 @@
+{Unable to perform assignment because the size of the left side is 2-by-1 and the size of the right side is 1-by-4.
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('lagrangeval', 'C:\Users\Danin\Documents\MATLAB\lagrangeval.m', 36)" style="font-weight:bold">lagrangeval</a> (<a href="matlab: opentoline('C:\Users\Danin\Documents\MATLAB\lagrangeval.m',36,0)">line 36</a>)
+q(:,1) = y;
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NAProg3Test', 'C:\Users\Danin\Documents\MATLAB\NAProg3Test.m', 22)" style="font-weight:bold">NAProg3Test</a> (<a href="matlab: opentoline('C:\Users\Danin\Documents\MATLAB\NAProg3Test.m',22,0)">line 22</a>)
+pofw = lagrangeval(x,y,w);} 
