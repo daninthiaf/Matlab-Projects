@@ -1,10 +1,6 @@
 
 function [l,r,nf] = bisect(fname,a,b,tol)
 
-% Daninthia Fox   
-% UAID: 010762674
-% MATH 4363: Numerical Analysis - Programming Assignment #2
-% ---------------------------------------------------------
 % We want to calculate: Roots & # of iterations for the func: f(x)= cos(x) - sin(x)
 % using the Bisection & Secant Methods
 % Bisection:
