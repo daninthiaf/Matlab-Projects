@@ -1,9 +1,5 @@
 function w = euler(f,a,b,alpha,N)
 %
-% Daninthia Fox
-% UAID:010762674
-% MATH 4363: Numerical Analysis - Programming Assignment #5
-% _______________________________________________________________________________________
 % This is a subroutine to approximate the solution y(t), to the IVP y'(t) =
 % f(t,y), y(a) = alpha, t is an element of the interval a to b using Euler's Method.
 % 
