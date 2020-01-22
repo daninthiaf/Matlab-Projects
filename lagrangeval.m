@@ -1,9 +1,5 @@
 function p = lagrangeval(x,y,w)
 %
-% Daninthia Fox
-% UAID:010762674
-% MATH 4363: Numerical Analysis - Programming Assignment #3
-% _________________________________________________________________________________
 % This is a subroutine to evaluate the Lagrange interpolant for a set of
 % knots.
 %
