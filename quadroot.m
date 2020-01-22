@@ -1,8 +1,5 @@
-% Daninthia Fox   
-% UAID: 010762674
-% MATH 4363: Numerical Analysis - Programming Assignment #1
-% ---------------------------------------------------------
-% We want to calculate: ax^2 + bx + c
+
+% We want to evaluate the roots of a function using the uadratic formula in th form: ax^2 + bx + c
 % it has roots r1 & r2
 % If errflag = 0 then roots r1,r2 are output in x1, x2
 % if errflag = ('x1 is real & x2 is imaginary') 
